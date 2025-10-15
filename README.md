@@ -13,4 +13,6 @@ Output
    simple interest = p*t*r
 ```
 
+Hey, this is from the bug typo merge example.
+
 _© 2022 XYZ, Inc._
